@@ -1,6 +1,6 @@
 #This is a sample Image
 FROM ubuntu
-MAINTAINER demousr@gmail.com
+MAINTAINER rmanoj06@outlook.com
 
 RUN apt-get update
 RUN apt-get install –y nginx
